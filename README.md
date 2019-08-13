@@ -16,6 +16,11 @@ It has built-in support for the following custom components:
 ## Simple Preview:
 ![Nyx 01 Profile](https://github.com/AmoebeLabs/Nyx_Theme-Orange_Blue/blob/master/screenshots/nyx-01-profile.png)
 
+## Some real-world screenshots:
+![1](https://github.com/AmoebeLabs/Nyx_Theme-Orange_Blue/blob/master/screenshots/nyx-01-examples01.png)
+
+![2](https://github.com/AmoebeLabs/Nyx_Theme-Orange_Blue/blob/master/screenshots/nyx-01-examples02.png)
+
 ## Design:
 The main colors, based on the [Material Design Color Palettes](https://github.com/AmoebeLabs/Material-Design-Theme-Colors) are:
 - Almost Black for backgrounds
