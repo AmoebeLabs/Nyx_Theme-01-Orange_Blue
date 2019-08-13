@@ -1,2 +1,2 @@
-# Nyx_Theme-Orange_Blue
+# Nyx Theme Orange/Blue
 Nyx night theme for Home Assistant
