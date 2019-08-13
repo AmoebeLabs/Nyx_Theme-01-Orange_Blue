@@ -1,4 +1,4 @@
-# Nyx Theme Orange/Blue
+# Nyx Theme Variant #01, Orange/Blue
 Nyx Night/Dark Theme for Home Assistant in Orange/Blue variant
 
 ## What is it
