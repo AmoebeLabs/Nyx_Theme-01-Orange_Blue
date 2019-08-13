@@ -13,6 +13,9 @@ It has built-in support for the following custom components:
 - The awesome [custom button card](https://github.com/custom-cards/button-card)
 - The [custom air visual card](https://github.com/dnguyen800/air-visual-card)
 
+## Simple Preview:
+![Nyx 01 Profile](https://github.com/AmoebeLabs/Nyx_Theme-Orange_Blue/blob/master/screenshots/nyx-01-profile.png)
+
 ## Design:
 The main colors, based on the [Material Design Color Palettes](https://github.com/AmoebeLabs/Material-Design-Theme-Colors) are:
 - Almost Black for backgrounds
